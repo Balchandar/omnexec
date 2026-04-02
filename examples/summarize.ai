@@ -1,0 +1,15 @@
+@meta
+  model: gpt-4o
+  temperature: 0.3
+
+@context
+  input: "{{./input.txt}}"
+
+@conversation
+  system: You are a concise summarizer. Always include the word "summary" in your response.
+  user: |
+    Summarize the following:
+    {{input}}
+
+@assert
+  contains: "summary"

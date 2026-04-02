@@ -1,0 +1,9 @@
+@meta
+  model: gpt-4o
+  temperature: 0.7
+
+@conversation
+  user: Say hello in a creative way. Keep it to one sentence.
+
+@assert
+  contains: "hello"
