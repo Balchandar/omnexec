@@ -2,10 +2,9 @@
 
 Run AI from files. Execute, test, and version prompts like code.
 
-[![npm version](https://img.shields.io/npm/v/omnexec)](https://www.npmjs.com/package/omnexec)
-[![license](https://img.shields.io/npm/l/omnexec)](./LICENSE)
-[![node](https://img.shields.io/node/v/omnexec)](https://nodejs.org)
-[![build](https://img.shields.io/github/actions/workflow/status/balchandar/omnexec/ci.yml?branch=main)](https://github.com/balchandar/omnexec/actions)
+[![license](https://img.shields.io/github/license/balchandar/omnexec)](./LICENSE)
+[![last commit](https://img.shields.io/github/last-commit/balchandar/omnexec)](https://github.com/balchandar/omnexec)
+[![repo size](https://img.shields.io/github/repo-size/balchandar/omnexec)](https://github.com/balchandar/omnexec)
 
 **The execution layer for AI.**
 
